@@ -1,15 +1,19 @@
 .columnfido {
   background-color: black;
+  float: center;
 }
 
 .columncookie {
   background-color: yellow;
+  float: center;
 }
 
 .columnbones {
   background-color: gray;
+  float: center;
 }
 
 .columnfurball {
   background-color: blueviolet;
+  float: center;
 }
